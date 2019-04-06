@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="678e80f3-f6d5-456d-9c2c-a536d2821599" name="Default Changelist" comment="" />
+    <list default="true" id="678e80f3-f6d5-456d-9c2c-a536d2821599" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/NewPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/NewPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/TwoPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/TwoPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/defiveryClub/First.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/defiveryClub/First.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/defiveryClub/WebDriverSettings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/NewPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/NewPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/TwoPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/TwoPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/defiveryClub/First.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ru/defiveryClub/First.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/defiveryClub/WebDriverSettings.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,12 +25,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/defiveryClub/First.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+            <state relative-caret-position="231">
+              <caret line="40" column="49" lean-forward="true" selection-start-line="40" selection-start-column="49" selection-end-line="40" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
-                <element signature="e#314#315#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pages/FourPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="99" column="7" lean-forward="true" selection-start-line="99" selection-start-column="7" selection-end-line="99" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -29,8 +49,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pages/NewPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1">
-              <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+            <state relative-caret-position="85">
+              <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pages/TreePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -41,35 +73,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pages/TwoPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pages/BasePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+            <state relative-caret-position="170">
+              <caret line="26" column="91" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="91" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#329#330#0" expanded="true" />
-                <element signature="e#365#366#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ru/defiveryClub/WebDriverSettings.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="27" column="18" lean-forward="true" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#503#504#0" expanded="true" />
-                <element signature="e#561#562#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -85,31 +92,37 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/BasePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/defiveryClub/WebDriverSettings.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/NewPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/TreePage.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/TwoPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/defiveryClub/First.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/NewPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ru/defiveryClub/WebDriverSettings.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/BasePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/FourPage.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1358" />
-    <option name="y" value="-8" />
-    <option name="width" value="1376" />
-    <option name="height" value="744" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1850" />
+    <option name="y" value="3" />
+    <option name="width" value="877" />
+    <option name="height" value="728" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,8 +184,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554547650470" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mercurytest" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554567018291" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -190,7 +203,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.First.loginFromMainPage">
+  <component name="RunManager" selected="JUnit.First.firsttest">
+    <configuration name="First" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ooo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.defiveryClub.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.defiveryClub" />
+      <option name="MAIN_CLASS_NAME" value="ru.defiveryClub.First" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="First.firsttest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ooo" />
       <extension name="coverage">
@@ -223,10 +251,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WebDriverSettings.firsttest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ooo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.defiveryClub.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.defiveryClub" />
+      <option name="MAIN_CLASS_NAME" value="ru.defiveryClub.WebDriverSettings" />
+      <option name="METHOD_NAME" value="firsttest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.First.loginFromMainPage" />
         <item itemvalue="JUnit.First.firsttest" />
+        <item itemvalue="JUnit.First" />
+        <item itemvalue="JUnit.WebDriverSettings.firsttest" />
+        <item itemvalue="JUnit.First.loginFromMainPage" />
       </list>
     </recent_temporary>
   </component>
@@ -244,41 +290,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="First_loginFromMainPage - 2019.04.06 at 13h 33m 59s.xml">
-      <configuration name="First.loginFromMainPage" configurationId="JUnit" />
+    <history-entry file="First_firsttest - 2019.04.06 at 18h 31m 00s.xml">
+      <configuration name="First.firsttest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="First_loginFromMainPage - 2019.04.06 at 13h 35m 45s.xml">
-      <configuration name="First.loginFromMainPage" configurationId="JUnit" />
+    <history-entry file="First_firsttest - 2019.04.06 at 18h 32m 07s.xml">
+      <configuration name="First.firsttest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="First_loginFromMainPage - 2019.04.06 at 13h 36m 01s.xml">
-      <configuration name="First.loginFromMainPage" configurationId="JUnit" />
+    <history-entry file="First_firsttest - 2019.04.06 at 18h 45m 58s.xml">
+      <configuration name="First.firsttest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="First_loginFromMainPage - 2019.04.06 at 13h 36m 28s.xml">
-      <configuration name="First.loginFromMainPage" configurationId="JUnit" />
+    <history-entry file="First_firsttest - 2019.04.06 at 18h 58m 59s.xml">
+      <configuration name="First.firsttest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="First_loginFromMainPage - 2019.04.06 at 13h 37m 00s.xml">
-      <configuration name="First.loginFromMainPage" configurationId="JUnit" />
+    <history-entry file="First_firsttest - 2019.04.06 at 19h 01m 59s.xml">
+      <configuration name="First.firsttest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="First_loginFromMainPage - 2019.04.06 at 13h 39m 02s.xml">
-      <configuration name="First.loginFromMainPage" configurationId="JUnit" />
+    <history-entry file="First_firsttest - 2019.04.06 at 19h 02m 44s.xml">
+      <configuration name="First.firsttest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="First_loginFromMainPage - 2019.04.06 at 13h 39m 42s.xml">
-      <configuration name="First.loginFromMainPage" configurationId="JUnit" />
+    <history-entry file="First_firsttest - 2019.04.06 at 19h 07m 06s.xml">
+      <configuration name="First.firsttest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="First_loginFromMainPage - 2019.04.06 at 13h 43m 48s.xml">
-      <configuration name="First.loginFromMainPage" configurationId="JUnit" />
+    <history-entry file="First_firsttest - 2019.04.06 at 19h 07m 44s.xml">
+      <configuration name="First.firsttest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="First_loginFromMainPage - 2019.04.06 at 13h 44m 52s.xml">
-      <configuration name="First.loginFromMainPage" configurationId="JUnit" />
+    <history-entry file="First_firsttest - 2019.04.06 at 19h 08m 22s.xml">
+      <configuration name="First.firsttest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="First_loginFromMainPage - 2019.04.06 at 13h 47m 01s.xml">
-      <configuration name="First.loginFromMainPage" configurationId="JUnit" />
+    <history-entry file="First_firsttest - 2019.04.06 at 19h 09m 14s.xml">
+      <configuration name="First.firsttest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="1376" height="744" extended-state="6" />
+    <frame x="1850" y="3" width="877" height="728" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11702128" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26560587" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -287,7 +334,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.12274959" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21176471" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -295,7 +342,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.28477904" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.28403363" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -314,55 +361,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/defiveryClub/First.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/defiveryClub/WebDriverSettings.java" />
+    <entry file="file://$USER_HOME$/Desktop/Это для кота/WebDriverSettings.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
-          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/TreePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pages/TwoPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/defiveryClub/WebDriverSettings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="27" column="18" lean-forward="true" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+        <state relative-caret-position="170">
+          <caret line="26" column="91" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="91" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#503#504#0" expanded="true" />
-            <element signature="e#561#562#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pages/NewPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1">
-          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        <state relative-caret-position="85">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/BasePage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/defiveryClub/First.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+        <state relative-caret-position="231">
+          <caret line="40" column="49" lean-forward="true" selection-start-line="40" selection-start-column="49" selection-end-line="40" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/FourPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="99" column="7" lean-forward="true" selection-start-line="99" selection-start-column="7" selection-end-line="99" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

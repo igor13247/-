@@ -12,6 +12,7 @@ public class NewPage extends BasePage {
     WebElement passwordField;
     @FindBy(xpath = ".//input[@name='login']")
     WebElement signInField;
+
     public NewPage(WebDriver driver) {
         super(driver);
         PageFactory.initElements(driver, this);
